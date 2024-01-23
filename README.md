@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @leomotta7
-- 👀 I’m interested in programming
+- 👀 I’m interested in programing
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on several projects
 - 📫 How to reach me linkedin.com/in/leandromotta87/
